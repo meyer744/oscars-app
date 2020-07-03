@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/oscars-app/static/css/main.e93a50b8.chunk.css",
+    "main.js": "/oscars-app/static/js/main.b53aed71.chunk.js",
+    "main.js.map": "/oscars-app/static/js/main.b53aed71.chunk.js.map",
+    "runtime-main.js": "/oscars-app/static/js/runtime-main.35f24779.js",
+    "runtime-main.js.map": "/oscars-app/static/js/runtime-main.35f24779.js.map",
+    "static/js/2.ff42326e.chunk.js": "/oscars-app/static/js/2.ff42326e.chunk.js",
+    "static/js/2.ff42326e.chunk.js.map": "/oscars-app/static/js/2.ff42326e.chunk.js.map",
+    "index.html": "/oscars-app/index.html",
+    "precache-manifest.cf8273619c20d4d78e41189cdf03b860.js": "/oscars-app/precache-manifest.cf8273619c20d4d78e41189cdf03b860.js",
+    "service-worker.js": "/oscars-app/service-worker.js",
+    "static/css/main.e93a50b8.chunk.css.map": "/oscars-app/static/css/main.e93a50b8.chunk.css.map",
+    "static/js/2.ff42326e.chunk.js.LICENSE.txt": "/oscars-app/static/js/2.ff42326e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35f24779.js",
+    "static/js/2.ff42326e.chunk.js",
+    "static/css/main.e93a50b8.chunk.css",
+    "static/js/main.b53aed71.chunk.js"
+  ]
+}
